@@ -1,0 +1,4 @@
+name: ManyWowAntiCheat
+version: '${version}'
+main: org.spss.manywowanticheat.ManyWowAntiCheat
+api-version: '1.17'
